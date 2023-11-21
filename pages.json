@@ -1,0 +1,15 @@
+[{
+    "link": {"text": "Home", "url": "index.html"},
+    "pageTitle": "Hello Vue!",
+    "content": "Welcome to the wonderful world of Vue"
+},
+{
+    "link": {"text": "About", "url": "about.html"},
+    "pageTitle": "About Vue!",
+    "content": "This is about content"                    
+},
+{
+    "link": {"text": "Contact", "url": "contact.html"},
+    "pageTitle": "Contact Vue!",
+    "content": "This is contact content"                  
+}]
